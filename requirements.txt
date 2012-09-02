@@ -1,0 +1,13 @@
+PIL==1.1.7
+django
+south
+grappelli_safe
+bleach
+pytz
+filebrowser_safe
+mezzanine
+-e git://github.com/stephenmcd/cartridge.git#egg=cartridge
+docutils
+feedparser
+python-dateutil
+slimmer
